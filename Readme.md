@@ -1,4 +1,4 @@
-# Learning LLM Alignment Methods
+# LLM Alignment with Preference Optimization Methods
 
 ## Coding environment
 
